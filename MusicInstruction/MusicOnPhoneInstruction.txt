@@ -1,0 +1,25 @@
+Description: Make Pixa play music on Phone (Applied for Android Devices only)
+
++ Go to https://ifttt.com/, sign in if you already have an account or sign up for new account
+
++ Click "New Applet" to create new service
+
++ Click on the Plus sign on the "if +this then that" sign
+
++ Find "Amazon Alexa" and select it under Choose a service
+
++ Choose "Say a specific phrase" under Choose trigger
+
++ Type "play music on my phone", then click "Create trigger"
+
++ Click on the Plus sign on the "if this then +that" sign
+
++ Find "Android Device" and select it under Choose a service
+
++ Choose "Play Music" under Choose action, then click "Create Action"
+
++ Review and click Finish
+
++ On your Android device, install IFTTT application and sign in with the same account that you signed in ealier
+
++ Now say "Pixa trigger play music on my phone" on your Pixa device, then it will play music on your Android phone

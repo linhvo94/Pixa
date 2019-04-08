@@ -1,0 +1,21 @@
+Description: Make Pixa play music on Raspberry Pi 3
+
+Steps:
+
++ Install MyMedia for Raspberry Pi at https://www.mymediaalexa.com/
+
++ Extract the downloaded MyMedia zip and select "pi" for identify and enter "raspberry" for password
+
++ Install your music files into your Pi's SD card
+
++ Go to http://localhost:52051 after finishing MyMedia installing
+
++ Click "Next" on the main page, and sign in with your Amazon account
+
++ Click Watch Folder, and select the folder that you installed your music for the Pi earlier, then upload your music
+
++ Go to https://alexa.amazon.com/spa/index.html and search MyMedia under Skills tab
+
++ Enable MyMedia skill with the same Amazon account that you log into MyMedia
+
++ Now you can then say "Pixa, ask MyMedia to play music"
