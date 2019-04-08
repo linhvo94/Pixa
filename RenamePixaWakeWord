@@ -1,0 +1,15 @@
+Steps:
+
++ Open Terminal on Raspberry Pi
++ Type sudo nano /etc/opt/AlexaPi/config.yaml
++ Scroll down to the below part 
+   pocketsphinx:
+    enabled: true
+    voice_confirm: true
+
+    phrase: "alexa"
+    threshold: 1e-10
+    
+ + Change phrase: "alexa" to phase: "pixar"
+ + Close and save the config.yaml file
+ + Type sudo systemctl start AlexaPi.service to restart Pixa
