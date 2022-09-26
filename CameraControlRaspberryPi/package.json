@@ -2,7 +2,7 @@
     "dependencies": {
         "johnny-five": "^1.0.0",
         "onoff": "^4.1.1",
-        "pm2": "^3.4.1",
+        "pm2": "^5.2.0",
         "pubnub": "^3.15.2",
         "raspi-io": "^10.0.1",
         "stepper-wiringpi": "0.0.2"
